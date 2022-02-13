@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "name": "Juan Martinez",
+        "age": 35,
+        "location": "Bogotá",
+        "rol": "user",
+        "active": true
+
+    },
+    {
+        "id": 2,
+        "name": "Valery Torres",
+        "age": 25,
+        "location": "Medellin",
+        "rol": "admin",
+        "active": true
+
+    },
+    {
+        "id": 3,
+        "name": "Lucas Beltran",
+        "age": 30,
+        "location": "Cali",
+        "rol": "user",
+        "active": true
+
+    },
+    {
+        "id": 4,
+        "name": "Lorena Garcia",
+        "age": 22,
+        "location": "Bogotá",
+        "rol": "user",
+        "active": true
+
+    },
+    {
+        "id": 5,
+        "name": "Yesenia Huertas",
+        "age": 28,
+        "location": "Bogotá",
+        "rol": "user",
+        "active": true
+
+    },
+    {
+        "id": 6,
+        "name": "Kevin Lopez",
+        "age": 23,
+        "location": "Bogotá",
+        "rol": "admin",
+        "active": true
+
+    },
+    {
+        "id": 7,
+        "name": "Diana Martinez",
+        "age": 33,
+        "location": "Bogotá",
+        "rol": "user",
+        "active": true
+
+    },
+    {
+        "id": 8,
+        "name": "Yurany Vasques",
+        "age": 35,
+        "location": "Cali",
+        "rol": "user",
+        "active": true
+
+    }
+
+]
