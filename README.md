@@ -18,3 +18,6 @@
 4. Un usuario puede tener muchas habilidades, sin embargo una habilidad solo puede pertenecer a un usuario, eso quiere decir que existe una relación de uno a muchos. 
 
 ---
+### url node.js
+1. https://node-prueba-direktio.herokuapp.com/api/users -> get
+2. https://node-prueba-direktio.herokuapp.com/api/users/1 -> ver/eliminar/actualizar usuario por id
